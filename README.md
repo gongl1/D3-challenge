@@ -2,6 +2,10 @@
 
 https://gongl1.github.io/D3-challenge/
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
